@@ -5,8 +5,8 @@ export default function Footer() {
 
         <div className="flex flex-col gap-4">
           <a href="/" className="flex items-center">
-            <h2 className="text-5xl font-extrabold font-['macondo']">
-              <span className="text-cyan-400">Symbol</span>
+            <h2 className="text-5xl font-extrabold">
+              <span className="text-cyan-400">Asang</span>
             </h2>
           </a>
 
