@@ -15,12 +15,13 @@ export default function Pricing() {
                                     hover:border-cyan-400 transition duration-300">
 
                         <h3 className="text-2xl font-semibold mb-4">Basic</h3>
-                        <p className="text-4xl font-bold mb-6 text-cyan-400">₹999</p>
+                        <p className="text-4xl font-bold mb-6 text-cyan-400">₹3999</p>
 
                         <ul className="text-white/70 flex flex-col gap-3 mb-8">
                             <li>✔ 1 Website</li>
                             <li>✔ Basic Support</li>
                             <li>✔ Responsive Design</li>
+                            <li>✔ 7 Days Delivery</li>
                             <li>✖ No Custom Features</li>
                         </ul>
 
@@ -31,11 +32,12 @@ export default function Pricing() {
                                     scale-105">
 
                         <h3 className="text-2xl font-semibold mb-4">Standard</h3>
-                        <p className="text-4xl font-bold mb-6 text-cyan-400">₹1999</p>
+                        <p className="text-4xl font-bold mb-6 text-cyan-400">₹5999</p>
 
                         <ul className="text-white/70 flex flex-col gap-3 mb-8">
-                            <li>✔ 3 Pages Website</li>
+                            <li>✔ 3-4 Pages Website</li>
                             <li>✔ Priority Support</li>
+                            <li>✔ 1 Month Support</li>
                             <li>✔ Responsive Design</li>
                             <li>✔ Custom Features</li>
                         </ul>
@@ -47,12 +49,13 @@ export default function Pricing() {
                                     hover:border-cyan-400 transition duration-300">
 
                         <h3 className="text-2xl font-semibold mb-4">Premium</h3>
-                        <p className="text-4xl font-bold mb-6 text-cyan-400">₹3999</p>
+                        <p className="text-4xl font-bold mb-6 text-cyan-400">₹7999</p>
 
                         <ul className="text-white/70 flex flex-col gap-3">
                             <li>✔ Unlimited Pages</li>
-                            <li>✔ 24/7 Support</li>
+                            <li>✔ 6 Months Support</li>
                             <li>✔ Full Custom Design</li>
+                            <li>✔ Domain Hosting</li>
                             <li>✔ SEO Optimization</li>
                         </ul>
 
